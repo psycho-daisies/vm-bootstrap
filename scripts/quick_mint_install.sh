@@ -9,4 +9,4 @@ sudo apt install -y git curl wget vim htop gnome-tweaks flatpak
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
 # Install Flatpak apps
-flatpak install -y flathub org.mozilla.firefox com.visualstudio.code com.spotify.Client com.discordapp.Discord
+flatpak install -y flathub org.mozilla.firefox com.visualstudio.code com.discordapp.Discord
