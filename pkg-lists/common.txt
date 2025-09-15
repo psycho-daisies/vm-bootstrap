@@ -1,0 +1,8 @@
+# CLI basics
+git
+curl
+wget
+vim
+htop
+# dev tools
+build-essential   # ubuntu/debian name; leave distro-specific in per-distro files
